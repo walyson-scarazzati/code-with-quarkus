@@ -1,8 +1,17 @@
 # code-with-quarkus
 
+This project is based on the Udemy course "Desenvolvimento Web com Quarkus - Básico - Udemy": https://www.udemy.com/course/des-web-quarkus-basico.
+
+project based course 
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
+
+## Running docker-compose MYSQL
+```shell script
+docker-compose up
+```
 
 ## Running the application in dev mode
 
